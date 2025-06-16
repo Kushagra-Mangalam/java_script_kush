@@ -1,0 +1,25 @@
+#java script notes
+
+to define variable 
+
+(let , const)-both are new and fast  & (var)-slower and older version
+
+undefined meaning: future me koi value aa sakti hai 
+null : wo reserve hai kisi ke liye 
+
+variables have the default value of undefined
+
+#temporal dead zone
+
+var - access before initialization
+    re declaration
+    re assighnment
+
+let - access before initilization is not allowed 
+    not allowed re declaration
+    reassighnment
+
+const- not allowed
+    not allowed 
+    not allowed
+            
