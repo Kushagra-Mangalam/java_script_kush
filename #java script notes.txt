@@ -22,4 +22,8 @@ let - access before initilization is not allowed
 const- not allowed
     not allowed 
     not allowed
-            
+
+
+camal case ,pascal case             
+
+function invocation 
