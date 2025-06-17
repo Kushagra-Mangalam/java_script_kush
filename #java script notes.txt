@@ -27,3 +27,8 @@ const- not allowed
 camal case ,pascal case             
 
 function invocation 
+
+types of function
+-call backs 
+-promises
+ 

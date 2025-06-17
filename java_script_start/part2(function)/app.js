@@ -61,6 +61,13 @@ function calculateBill(){
     console.log(juiceBill);
 }
 
+function calculateBill(){
+    let gstOnJuice=0.1;
+    let juice= 50;
+    let juiceBill = juice+juice+gstOnJuice;
+    console.log(juiceBill);
+    console.log("hello");
+}
 console.log("MID");
 
 calculateBill();
