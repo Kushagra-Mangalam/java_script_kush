@@ -31,4 +31,34 @@ function invocation
 types of function
 -call backs 
 -promises
- 
+
+
+ object store key value pairs 
+ kays can not be numbers , it must be string or numbers
+
+
+ primitive and non-primitive
+
+ primitive are values 
+ and objects are non primitive
+
+ what are premitive 
+ it is a data which  are the most basic data types that represent single values and are not objects.
+ These values are immutable, meaning their values cannot be changed after creation.
+
+ what are nom premitive
+ primitives are objects , functions , and arrays
+
+ the object values are store in a heap memory thats why if we write 
+ console.log before deleting it it will fetch the final value of object from the memory
+
+
+ operator 
+ spread operator 
+
+agar p1 se p2 me copy kiys hai value then 
+
+ shallow copying - isme ye hota hai ki keval p2 ki value change hogi 
+ deep copying - par agar nested object bana ho p1 me or p2 me uski value copy ho rakhi hai to jo bhi change karenge hum nested object me wo p1 me change hoga 
+
+strict and loose equality 
