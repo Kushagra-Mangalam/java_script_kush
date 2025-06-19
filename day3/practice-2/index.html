@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Practice-2</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h2>Recipe store</h2>
+        <button>home</button>
+    </header>
+
+    <main id="root1">
+        <button onclick="handleCardClick()">
+        <div class="card">
+            <p>Dummy card</p>
+        </div>
+      </button>
+    </main>
+
+    <div id="pop-up-view" style="display: none">
+        <div id="pop-up-container">
+            <!-- <p>Hello</p> -->
+             <div id="pop-up-content">
+                <p>hello</p>
+             </div>
+            <button onclick="handleclosepopup()">X</button>
+        </div>
+    </div>
+    <script src="./script.js"></script>
+</body>
+</html>

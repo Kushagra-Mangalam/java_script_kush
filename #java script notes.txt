@@ -62,3 +62,20 @@ agar p1 se p2 me copy kiys hai value then
  deep copying - par agar nested object bana ho p1 me or p2 me uski value copy ho rakhi hai to jo bhi change karenge hum nested object me wo p1 me change hoga 
 
 strict and loose equality 
+
+
+#Dom manipulation 
+
+client and server 
+document object model 
+
+Javascript engine 
+
+window api layer
+
+Window is also called BOM(browser object model)
+    -console
+    -DOM
+    -fetch
+    -local storage
+    
