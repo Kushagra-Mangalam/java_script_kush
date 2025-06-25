@@ -79,3 +79,12 @@ Window is also called BOM(browser object model)
     -fetch
     -local storage
     
+
+Global execution Context
+    
+
+    what is promise
+    
+
+
+source map     

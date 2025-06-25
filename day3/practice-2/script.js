@@ -1097,7 +1097,11 @@ const handleCardClick = (obj) => {
 
   popUpView.style.display = "flex";
   namebutton.innerHTML = `
-  <p>hello</p>
+  
+  <p>${obj.name}</p>
+  <p>${obj.cuisine}</p>
+  <p>${obj.ratings}</p>
+  <p>${obj.servings}</p>
   `;
 };
 

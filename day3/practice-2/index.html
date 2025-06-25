@@ -13,22 +13,17 @@
     </header>
 
     <main id="root1">
-        <button onclick="handleCardClick()">
-        <div class="card">
-            <p>Dummy card</p>
+        <button onclick="handleCardClick()"></button>
+      <div id="pop-up-view" style="display: none">
+          <div id="pop-up-container">
+              <!-- <p>Hello</p> -->
+              <div id="pop-up-content">
+                  <p>hello</p>
+                </div>
+                <button onclick="handleclosepopup()">X</button>
+            </div>
         </div>
-      </button>
     </main>
-
-    <div id="pop-up-view" style="display: none">
-        <div id="pop-up-container">
-            <!-- <p>Hello</p> -->
-             <div id="pop-up-content">
-                <p>hello</p>
-             </div>
-            <button onclick="handleclosepopup()">X</button>
-        </div>
-    </div>
     <script src="./script.js"></script>
 </body>
 </html>
