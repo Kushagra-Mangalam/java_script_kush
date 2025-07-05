@@ -88,3 +88,15 @@ Global execution Context
 
 
 source map     
+
+
+
+#to create vite app 
+npm run vite@latest(for latest version)
+and then if it asked for package give it a name or .
+
+
+
+To create node js project 
+
+>>npm init -y
