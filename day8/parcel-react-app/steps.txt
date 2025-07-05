@@ -1,0 +1,14 @@
+-install node
+-npm init -y (y beacuse it put the question in this)
+-go to npmjs.com and install the required packages
+-npm i react
+-npm i react-dom
+-this create node modules and packages-lock.jason for you 
+    in packages.json array dependencies is created
+-bundler in javascript (snipchat);
+    parcel(for today since it is easy to setup and will help us to build and understand react app from scratch) 
+   >>> (npm i parcel)
+-run the app
+    >>npx parcel index.html
+    vite ()
+-npm i to install all the files
